@@ -520,6 +520,9 @@ gladly accepted.
 - increase
   decrease
 
+- first
+  final (instead of last)
+
 - function
   gradient
   Jacobian
