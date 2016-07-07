@@ -419,6 +419,9 @@ gladly accepted.
   client
   subnet
 
+- boss  (Alternative to master/slave networking jargon)
+  peon
+
 - public  [Encryption keys]
   secret
   shared
