@@ -556,6 +556,10 @@ gladly accepted.
 
 - position
   velocity
+
+- train (train/dev/test but alliterative!)
+  tweak
+  trial
 ```
 
 9
